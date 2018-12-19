@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Introduction to VCS}{3}{0}{1}
+\beamer@sectionintoc {2}{Git}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{History}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Commands}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Workflows}{14}{0}{2}
+\beamer@sectionintoc {3}{Online Repositories}{18}{0}{3}
+\beamer@subsectionintoc {3}{1}{BitBucket}{19}{0}{3}
+\beamer@subsectionintoc {3}{2}{GitHub}{22}{0}{3}
+\beamer@sectionintoc {4}{GUI-Client for Git: GitKraken}{25}{0}{4}
